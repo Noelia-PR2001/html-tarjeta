@@ -15,11 +15,10 @@ He diseñado un email en HTML donde:
 * Todo tiene los colores corporativos de onsistems.
 
 ## 🛠 ¿Cómo lo he construido?
-Lo he hecho únicamente con HTML:
-
+Para crear este email me he apoyado en un diseño previo que ya tenía la empresa como referencia. A partir de ahí lo he adaptado y estructurado en HTML para que pudiera enviarse por correo.
 En los correos electrónicos no se pueden usar las mismas técnicas que en una web normal, asi que he tenido que organizar todo con tablas para que se vea bien cuando se envía por Gmail o por correo profesional.
 
-Tambien he puesto los estilos directamente dentro de cada elemento para asegurar que no se descuadre al enviarlo.
+Una de las cosas que he aprendido es que los emails tienen muchas más limitaciones que una página web normal. Por ejemplo, no aceptan imágenes en formato SVG,tuve que ponerlas en formato PNG para que se visualizaran correctamente.
 
 ## 🖼️ Estructura Visual del Folleto
 
