@@ -1,7 +1,7 @@
 #  📩 Sistema de plantilla HTML para Email Corporativo
 
 ## 📌 ¿Qué es este proyecto?
-En este proyecto he creado una plantilla de email para Onsistems, pensada para enviarla a clientes como si fuera un pequeño folleto digital.
+En este proyecto he creado una plantilla de email para onsistems, pensada para enviarla a clientes como si fuera un pequeño folleto digital.
 
 La idea era que cuando la empresa quiera presentar sus servicios por correo, el mensaje no sea solo texto plano, algo más visual y profesional.
 
@@ -12,7 +12,7 @@ He diseñado un email en HTML donde:
 * Aparece el logo de la empresa.
 * Se explican los servicios principales.
 * Hay un botón para que el cliente pueda perdir presupuesto.
-* Todo tiene los colores corporativos de Onsistems.
+* Todo tiene los colores corporativos de onsistems.
 
 ## 🛠 ¿Cómo lo he construido?
 Lo he hecho únicamente con HTML:
@@ -37,4 +37,4 @@ Aunque es un proyecto sencillo, me ha servido para entender cómo funcionan real
 
 ## 👨‍💻 Autora
 Noelia Parra Rodríguez
-Practicas en Onsistems
+Practicas en onsistems
